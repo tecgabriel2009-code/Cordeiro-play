@@ -1,0 +1,6 @@
+{
+  "name": "Cordeiro Play",
+  "description": "Aplicativo Android nativo para download e reprodução de mídias com motor local yt-dlp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
