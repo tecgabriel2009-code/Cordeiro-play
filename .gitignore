@@ -2,3 +2,5 @@
 build/
 .build-outputs/
 *.lock
+app-debug.apk
+cordeiro-play-export.zip
